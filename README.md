@@ -1,3 +1,3 @@
 # mongoSpring
 
-This is a simple project which illustrate how to make a mongo database with SpringBoot.
+This is a simple project which illustrate how to integrate mongo database with SpringBoot.
